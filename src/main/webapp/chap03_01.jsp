@@ -8,6 +8,6 @@
 <title>Hello.jsp</title>
 </head>
 <body>
-현재시간:  <%= new Date() %>
+Current Time:  <%= new Date() %>
 </body>
 </html>
